@@ -1,0 +1,8 @@
+apache-airflow==3.1.8
+apache-airflow-providers-databricks
+great-expectations==1.15.2
+evidently==0.7.21
+scikit-learn
+pandas
+numpy
+delta-spark
